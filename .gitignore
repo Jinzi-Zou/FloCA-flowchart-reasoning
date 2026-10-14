@@ -1,0 +1,29 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Generated experiment artifacts
+FloDial/results/
+PFDial/results/
+FloDial/cache_data/
+PFDial/cache_data/
+
+# Local model weights
+PFDial/models/
