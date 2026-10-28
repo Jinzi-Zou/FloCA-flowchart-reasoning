@@ -315,7 +315,3 @@ If you find this work useful, please cite:
 ## Acknowledgements
 
 We thank the authors of FLODIAL, PFDial, and the open-source model and tooling communities on which this work builds.
-
-## License
-
-Code and dataset licensing information should be provided in a separate `LICENSE` file. Dataset redistribution remains subject to the licenses of the original FLODIAL and PFDial resources.
