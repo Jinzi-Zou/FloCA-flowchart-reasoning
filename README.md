@@ -298,12 +298,18 @@ The current implementation assumes forward progression through a flowchart and d
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{zou2026floca,
-  title     = {FloCA: Towards Faithful and Logically Consistent Flowchart Reasoning},
-  author    = {Zou, Jinzi and Wang, Bolin and Zhang, Shuo and Xu, Nuo and Zhao, Junzhou},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
-  year      = {2026}
+@inproceedings{zou-etal-2026-floca,
+    title = "{F}lo{CA}: Towards Faithful and Logically Consistent Flowchart Reasoning",
+    author = "Zou, Jinzi  and
+      Wang, Bolin  and
+      Zhang, Shuo  and
+      Xu, Nuo  and
+      Zhao, Junzhou",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026"
 }
+
 ```
 
 ## Acknowledgements
